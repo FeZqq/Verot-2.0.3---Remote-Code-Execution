@@ -1,4 +1,4 @@
-This is an updated PoC from exploitdb. (https://www.exploit-db.com/exploits/47749)
+This is an updated exploit from exploitdb. (https://www.exploit-db.com/exploits/47749)
 
 Requirements
 ------------
@@ -7,4 +7,4 @@ php-gd (sudo apt-get install php-gd)
 
 usage
 ------
-php PoC.php
+php main.php
